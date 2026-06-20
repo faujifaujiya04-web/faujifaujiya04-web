@@ -65,7 +65,7 @@ https://v0-portfolio-website-build-sigma-umber.vercel.app
 
 # 🐍 Snake Animation
 
-![Snake animation](https://github.com/faujifaujiya04-web/faujifaujiya04-web/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/faujifaujiya04-web/faujifaujiya04-web![GitHub Streak](https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight))
 
 ## 📊 GitHub Stats
 
