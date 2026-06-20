@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Faujiya
 
-<!--
-**faujifaujiya04-web/faujifaujiya04-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Tamil Nadu, India
+
+---
+
+## 🚀 About Me
+
+- Passionate about Software Development
+- Interested in AI & Cyber Security
+- Building Real-World Applications
+- Learning Full Stack Development
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+Java • Python • JavaScript
+
+### Frontend
+HTML • CSS • React
+
+### Backend
+Spring Boot • Flask • FastAPI • Node.js
+
+### Database
+MySQL • PostgreSQL • SQLite
+
+### Tools
+Git • GitHub • VS Code • Render
+
+---
+
+## 🌟 Featured Projects
+
+### 💳 Offline Token Payment System
+Secure offline payment platform using FastAPI, React and PostgreSQL.
+
+### 🤖 AI Smart Attendance System
+Face detection-based attendance management system.
+
+### 🛡 CyberGuard
+AI-powered cybersecurity reporting portal.
+
+### 🔍 Instagram Fake Profile Detection
+Detects suspicious Instagram profiles using activity analysis.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email:
+faujifaujiya04@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/faujiya-h-35b70b32a
+
+🌐 Portfolio:
+https://v0-portfolio-website-build-sigma-umber.vercel.app
