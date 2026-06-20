@@ -15,15 +15,15 @@
 📍 Tamil Nadu, India
 
 ---
+<h2 align="center">👩‍💻 About Me</h2>
 
-## 👩‍💻 About Me
 <p align="center">
-- 🎓 B.Tech Information Technology Student
-- 💻 Aspiring Software Developer
-- 🚀 Building Real-World Applications
-- 🌱 Currently Learning Advanced Full-Stack Development
-- 🤖 Interested in AI & Cyber Security
-- 📍 Tamil Nadu, India
+🎓 B.Tech Information Technology Student <br><br>
+💻 Aspiring Software Developer <br><br>
+🚀 Building Real-World Applications <br><br>
+🌱 Learning Full Stack Development <br><br>
+🤖 Interested in AI & Cyber Security <br><br>
+📍 Tamil Nadu, India
 </p>
 ---
 
@@ -77,16 +77,50 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight" />
 </p>
+--
+<h2 align="center">🚀 Featured Projects</h2>
 
-## 🚀 Featured Projects
-<p align="center">
-| Project | Tech Stack |
-|----------|------------|
-| 💳 Offline Token Payment System | FastAPI, React, PostgreSQL |
-| 🤖 AI Smart Attendance System | HTML, CSS, JavaScript |
-| 🛡️ CyberGuard | Flask, SQLite, AI APIs |
-| 🔍 Fake Profile Detection | Python, Flask |
-</p>
+<table align="center">
+<tr>
+<td width="50%">
+
+### 💳 Offline Token Payment System
+FastAPI • React • PostgreSQL
+
+Secure offline-first payment platform with QR transactions and fraud detection.
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Smart Attendance System
+HTML • CSS • JavaScript
+
+Face detection-based attendance and bunk prevention system.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛡️ CyberGuard
+Flask • SQLite • AI APIs
+
+AI-powered cyber incident reporting and threat analysis portal.
+
+</td>
+
+<td width="50%">
+
+### 🔍 Fake Profile Detection
+Python • Flask
+
+Instagram fake account detection using profile analysis.
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🌐 Connect With Me
