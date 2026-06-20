@@ -19,20 +19,9 @@
 
 ## 🛠 Tech Stack
 
-### Languages
-Java • Python • JavaScript
-
-### Frontend
-HTML • CSS • React
-
-### Backend
-Spring Boot • Flask • FastAPI • Node.js
-
-### Database
-MySQL • PostgreSQL • SQLite
-
-### Tools
-Git • GitHub • VS Code • Render
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,spring,flask,fastapi,nodejs,mysql,postgresql,sqlite,git,github,vscode" />
+</p>
 
 ---
 
