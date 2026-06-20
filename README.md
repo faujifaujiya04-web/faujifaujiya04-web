@@ -10,13 +10,10 @@
 <h3>
 🚀 Software Developer | Java • Python • React • FastAPI | AI & Cybersecurity Enthusiast
 </h3>
----
 <h1>👩‍💻 About Me</h1>
-
 <p>
 I'm Faujiya, a B.Tech Information Technology student passionate about software development, artificial intelligence, and building real-world applications. I enjoy creating scalable solutions using Java, Python, React, FastAPI, Flask, and Spring Boot. My interests include full-stack development, cybersecurity, and AI-driven systems. Through continuous learning and hands-on projects, I strive to build impactful software while growing as a future software engineer.
 </p>
----
 <h1>🛠 Tech Stack</h1>
 <p>
 Technologies, frameworks, databases, and tools I use to build modern software applications.
@@ -42,7 +39,6 @@ Technologies, frameworks, databases, and tools I use to build modern software ap
 
 <img height="60" src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-
 <h1>📈 Contribution Graph</h1>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=faujifaujiya04-web&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
@@ -53,15 +49,15 @@ Technologies, frameworks, databases, and tools I use to build modern software ap
 <h1>📊 GitHub Statistics</h1>
 
 <p>
-  <img width="800%" src="https://github-readme-stats.vercel.app/api?username=faujifaujiya04-web&show_icons=true&theme=tokyonight" />
+  <img width="500%" src="https://github-readme-stats.vercel.app/api?username=faujifaujiya04-web&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-  <img width="800%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faujifaujiya04-web&layout=compact&theme=tokyonight" />
+  <img width="400%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faujifaujiya04-web&layout=compact&theme=tokyonight" />
 </p>
 
 <p>
-  <img width=800%" src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight" />
+  <img width=400%" src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight" />
 </p>
 <h1>🚀 Featured Projects</h1>
 
