@@ -61,6 +61,7 @@ Technologies, frameworks, databases, and tools I use to build modern software ap
 <table>
 <tr>
 <td>
+  
 ### 💳 Offline Token Payment System
 An offline-first payment platform supporting wallet transfers, QR-based payments, JWT authentication, fraud detection, and merchant transactions using FastAPI, React, and PostgreSQL.
 
