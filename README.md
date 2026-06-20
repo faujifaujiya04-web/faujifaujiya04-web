@@ -17,14 +17,14 @@
 ---
 
 ## 👩‍💻 About Me
-
+<p align="center">
 - 🎓 B.Tech Information Technology Student
 - 💻 Aspiring Software Developer
 - 🚀 Building Real-World Applications
 - 🌱 Currently Learning Advanced Full-Stack Development
 - 🤖 Interested in AI & Cyber Security
 - 📍 Tamil Nadu, India
-
+</p>
 ---
 
 ## 🛠 Tech Stack
@@ -79,14 +79,14 @@
 </p>
 
 ## 🚀 Featured Projects
-
+<p align="center">
 | Project | Tech Stack |
 |----------|------------|
 | 💳 Offline Token Payment System | FastAPI, React, PostgreSQL |
 | 🤖 AI Smart Attendance System | HTML, CSS, JavaScript |
 | 🛡️ CyberGuard | Flask, SQLite, AI APIs |
 | 🔍 Fake Profile Detection | Python, Flask |
-
+</p>
 ---
 
 ## 🌐 Connect With Me
