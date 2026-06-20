@@ -20,50 +20,50 @@ I'm Faujiya, a B.Tech Information Technology student passionate about software d
 </p>
 ---
 <h1>🛠 Tech Stack</h1>
+<p>
+Technologies, frameworks, databases, and tools I use to build modern software applications.
+</p>
 
-<h3>💻 Languages</h3>
+<h2>💻 Languages</h2>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+<img height="60" src="https://skillicons.dev/icons?i=java,python,javascript" />
 
-<h3>🎨 Frontend</h3>
+<h2>🎨 Frontend Development</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img height="60" src="https://skillicons.dev/icons?i=html,css,react" />
 
-<h3>⚙️ Backend</h3>
+<h2>⚙️ Backend Development</h2>
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi" />
+<img height="60" src="https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi" />
 
-<h3>🗄️ Databases</h3>
+<h2>🗄️ Databases</h2>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<img height="60" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 
-<h3>🛠 Tools</h3>
+<h2>🛠 Tools & Platforms</h2>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img height="60" src="https://skillicons.dev/icons?i=git,github,vscode" />
 
----
-<h1>🐍 Contribution Snake</h1>
-
-![Snake animation](https://github.com/faujifaujiya04-web/faujifaujiya04-web/blob/output/github-contribution-grid-snake.svg)
 
 <h1>📈 Contribution Graph</h1>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=faujifaujiya04-web&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
 </p>
 
+![Snake animation](https://github.com/faujifaujiya04-web/faujifaujiya04-web/blob/output/github-contribution-grid-snake.svg)
+
 <h1>📊 GitHub Statistics</h1>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faujifaujiya04-web&show_icons=true&theme=tokyonight" />
+<p>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=faujifaujiya04-web&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faujifaujiya04-web&layout=compact&theme=tokyonight" />
+<p>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faujifaujiya04-web&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight" />
+<p>
+  <img height="200" src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight" />
 </p>
 <h1>🚀 Featured Projects</h1>
 
