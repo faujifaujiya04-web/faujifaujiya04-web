@@ -75,3 +75,7 @@ https://v0-portfolio-website-build-sigma-umber.vercel.app
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/faujifaujiya04-web/faujifaujiya04-web/output/github-contribution-grid-snake.svg)
+
