@@ -67,6 +67,11 @@ https://v0-portfolio-website-build-sigma-umber.vercel.app
 
 ![Snake animation](https://github.com/faujifaujiya04-web/faujifaujiya04-web/blob/output/github-contribution-grid-snake.svg)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/faujifaujiya04-web/faujifaujiya04-web/output/github-contribution-grid-snake.svg)
+
+
 ## 📊 GitHub Stats
 
 ![Faujiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=faujifaujiya04-web&show_icons=true&theme=tokyonight)
@@ -74,8 +79,4 @@ https://v0-portfolio-website-build-sigma-umber.vercel.app
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faujifaujiya04-web&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight)
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/faujifaujiya04-web/faujifaujiya04-web/output/github-contribution-grid-snake.svg)
 
