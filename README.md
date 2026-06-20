@@ -1,8 +1,11 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,100:00BFFF&text=Faujiya%20H&fontSize=55&fontAlignY=40&desc=Aspiring%20Software%20Developer&descAlignY=60"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Faujiya;B.Tech+Information+Technology;Aspiring+Software+Developer;Java+%7C+Python+%7C+React+%7C+FastAPI;AI+%26+Cybersecurity+Enthusiast;Building+Real+World+Apps+🚀" />
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faujifaujiya04-web&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <h2 style="color:#00C2FF; text-shadow: 2px 2px 10px #00C2FF;">
+    ✨ Turning Ideas into Real Applications ✨
+  </h2>
 </p>
 <h1>👋 Hi, I'm Faujiya</h1>
 <h3>
