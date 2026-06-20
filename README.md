@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Faujiya;Aspiring+Software+Developer;B.Tech+Information+Technology;Java+%7C+Python+%7C+React+%7C+FastAPI;Building+Real-World+Applications+🚀" />
 </p>
 
-**<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faujifaujiya04-web&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faujifaujiya04-web&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 # 👋 Hi, I'm Faujiya
 
@@ -30,27 +30,27 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### 🎨 Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### ⚙️ Backend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi" />
 </p>
 
 ### 🗄️ Databases
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
 ### 🛠 Tools & Platforms
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -66,11 +66,17 @@
 
 ## 📊 GitHub Stats
 
-![Faujiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=faujifaujiya04-web&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faujifaujiya04-web&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faujifaujiya04-web&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faujifaujiya04-web&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight" />
+</p>
 
 ## 🚀 Featured Projects
 
