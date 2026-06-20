@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Faujiya%20H&fontSize=60&fontAlignY=40&desc=Aspiring%20Software%20Developer&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,100:00BFFF&text=Faujiya%20H&fontSize=55&fontAlignY=40&desc=Aspiring%20Software%20Developer&descAlignY=60"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faujifaujiya04-web&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-
 <h1>👋 Hi, I'm Faujiya</h1>
 <h3>
 🚀 Software Developer | Java • Python • React • FastAPI | AI & Cybersecurity Enthusiast
