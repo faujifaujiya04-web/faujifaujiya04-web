@@ -63,11 +63,7 @@ https://www.linkedin.com/in/faujiya-h-35b70b32a
 🌐 Portfolio:
 https://v0-portfolio-website-build-sigma-umber.vercel.app
 
-# 🐍 Snake Animation
-
 ![Snake animation](https://github.com/faujifaujiya04-web/faujifaujiya04-web/blob/output/github-contribution-grid-snake.svg)
-
-## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/faujifaujiya04-web/faujifaujiya04-web/output/github-contribution-grid-snake.svg)
 
