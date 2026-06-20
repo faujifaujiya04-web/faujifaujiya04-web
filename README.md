@@ -48,16 +48,16 @@ Technologies, frameworks, databases, and tools I use to build modern software ap
 
 <h1>📊 GitHub Statistics</h1>
 
-<p>
-  <img width="300%" src="https://github-readme-stats.vercel.app/api?username=faujifaujiya04-web&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=faujifaujiya04-web&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
-  <img width="200%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faujifaujiya04-web&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faujifaujiya04-web&layout=compact&theme=tokyonight" />
 </p>
 
-<p>
-  <img width=200%" src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight" />
+<p align="center">
+  <img width=100%" src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight" />
 </p>
 <h1>🚀 Featured Projects</h1>
 
