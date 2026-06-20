@@ -19,33 +19,49 @@ Aspiring Software Developer • B.Tech IT Student • AI Enthusiast 🚀
 I'm <b>Faujiya</b>, a B.Tech Information Technology student passionate about software development, artificial intelligence, and building real-world applications. I enjoy developing scalable applications using Java, Python, React, FastAPI, Flask, and Spring Boot. My interests include full-stack development, cybersecurity, and AI-driven systems. Through continuous learning and hands-on projects, I strive to create impactful software solutions while growing into a skilled software engineer.
 </p>
 ---
-
 <h1>🛠 Tech Stack</h1>
 
+<table>
+<tr>
+<td>
+
 ### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi" />
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-</p>
 
-### 🛠 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+
+</td>
+</tr>
+</table>
 
 ---
 <h1>🐍 Contribution Snake</h1>
