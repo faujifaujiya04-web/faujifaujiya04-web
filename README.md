@@ -16,52 +16,30 @@ Aspiring Software Developer • B.Tech IT Student • AI Enthusiast 🚀
 <h1>👩‍💻 About Me</h1>
 
 <p>
-I'm <b>Faujiya</b>, a B.Tech Information Technology student passionate about software development, artificial intelligence, and building real-world applications. I enjoy developing scalable applications using Java, Python, React, FastAPI, Flask, and Spring Boot. My interests include full-stack development, cybersecurity, and AI-driven systems. Through continuous learning and hands-on projects, I strive to create impactful software solutions while growing into a skilled software engineer.
+I'm Faujiya, a B.Tech Information Technology student passionate about software development, artificial intelligence, and building real-world applications. I enjoy creating scalable solutions using Java, Python, React, FastAPI, Flask, and Spring Boot. My interests include full-stack development, cybersecurity, and AI-driven systems. Through continuous learning and hands-on projects, I strive to build impactful software while growing as a future software engineer.
 </p>
 ---
 <h1>🛠 Tech Stack</h1>
 
-<table>
-<tr>
-<td>
-
-### 💻 Languages
+<h3>💻 Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🎨 Frontend
+<h3>🎨 Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ⚙️ Backend
+<h3>⚙️ Backend</h3>
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi" />
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🗄️ Databases
+<h3>🗄️ Databases</h3>
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 
-</td>
-</tr>
-</table>
+<h3>🛠 Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 <h1>🐍 Contribution Snake</h1>
@@ -129,10 +107,8 @@ A profile analysis system that identifies suspicious Instagram accounts using en
 ---
 <h1>🌐 Connect With Me</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faujiya-h-35b70b32a)
+📧 Email: faujifaujiya04@gmail.com
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portfolio-website-build-sigma-umber.vercel.app)
+💼 LinkedIn: https://www.linkedin.com/in/faujiya-h-35b70b32a
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faujifaujiya04@gmail.com)
-
-
+🌍 Portfolio: https://v0-portfolio-website-build-sigma-umber.vercel.app
