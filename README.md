@@ -96,7 +96,7 @@ A profile analysis system that identifies suspicious Instagram accounts using en
 </td>
 </tr>
 </table>
----
+
 <h1>🌐 Connect With Me</h1>
 
 <p>
