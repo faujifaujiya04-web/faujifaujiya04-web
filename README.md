@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Faujiya;Aspiring+Software+Developer;B.Tech+Information+Technology;Java+%7C+Python+%7C+React+%7C+FastAPI;Building+Real-World+Applications+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Faujiya%20H&fontSize=60&fontAlignY=40&desc=Aspiring%20Software%20Developer&descAlignY=60" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faujifaujiya04-web&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
