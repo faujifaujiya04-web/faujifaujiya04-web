@@ -67,6 +67,10 @@ https://v0-portfolio-website-build-sigma-umber.vercel.app
 
 ![Snake animation](https://raw.githubusercontent.com/faujifaujiya04-web/faujifaujiya04-web/output/github-contribution-grid-snake.svg)
 
+## 📈 Contribution Graph
+
+[![Faujiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faujifaujiya04-web&theme=tokyo-night)](https://github.com/faujifaujiya04-web)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Faujiya;B.Tech+IT+Student;Aspiring+Software+Developer;Java+%7C+Python+%7C+React+%7C+FastAPI)](https://git.io/typing-svg)
 
 ## 📊 GitHub Stats
