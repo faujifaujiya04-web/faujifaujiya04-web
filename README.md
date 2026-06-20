@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/faujifaujiya04-web?label=Followers&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/faujifaujiya04-web?label=Stars&style=for-the-badge" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Faujiya;B.Tech+Information+Technology;Aspiring+Software+Developer;Java+%7C+Python+%7C+React+%7C+FastAPI;AI+%26+Cybersecurity+Enthusiast;Building+Real-World+Applications+🚀" />
+</p>
 </p>
 <h1>👋 Hi, I'm Faujiya</h1>
 <h3>
