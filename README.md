@@ -67,8 +67,9 @@ https://v0-portfolio-website-build-sigma-umber.vercel.app
 
 ## 📈 Contribution Graph
 
-[![Faujiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faujifaujiya04-web&theme=tokyo-night)](https://github.com/faujifaujiya04-web)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faujifaujiya04-web&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
+</p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Faujiya;B.Tech+IT+Student;Aspiring+Software+Developer;Java+%7C+Python+%7C+React+%7C+FastAPI)](https://git.io/typing-svg)
 
 ## 📊 GitHub Stats
