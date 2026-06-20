@@ -7,10 +7,8 @@
 </p>
 
 <h1>👋 Hi, I'm Faujiya</h1>
-
-
-<h3 align="center">
-Aspiring Software Developer • B.Tech IT Student • AI Enthusiast 🚀
+<h3>
+🚀 Software Developer | Java • Python • React • FastAPI | AI & Cybersecurity Enthusiast
 </h3>
 ---
 <h1>👩‍💻 About Me</h1>
@@ -55,15 +53,15 @@ Technologies, frameworks, databases, and tools I use to build modern software ap
 <h1>📊 GitHub Statistics</h1>
 
 <p>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=faujifaujiya04-web&show_icons=true&theme=tokyonight" />
+  <img width="800%" src="https://github-readme-stats.vercel.app/api?username=faujifaujiya04-web&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faujifaujiya04-web&layout=compact&theme=tokyonight" />
+  <img width="800%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faujifaujiya04-web&layout=compact&theme=tokyonight" />
 </p>
 
 <p>
-  <img height="200" src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight" />
+  <img width=800%" src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight" />
 </p>
 <h1>🚀 Featured Projects</h1>
 
@@ -107,8 +105,16 @@ A profile analysis system that identifies suspicious Instagram accounts using en
 ---
 <h1>🌐 Connect With Me</h1>
 
-📧 Email: faujifaujiya04@gmail.com
+<p>
+  <a href="mailto:faujifaujiya04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-💼 LinkedIn: https://www.linkedin.com/in/faujiya-h-35b70b32a
+  <a href="https://www.linkedin.com/in/faujiya-h-35b70b32a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-🌍 Portfolio: https://v0-portfolio-website-build-sigma-umber.vercel.app
+  <a href="https://v0-portfolio-website-build-sigma-umber.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
