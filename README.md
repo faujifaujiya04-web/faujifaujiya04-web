@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=faujifaujiya04-web&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 <h1 align="center">👋 Hi, I'm Faujiya</h1>
-<h3 align="center">
+<h3>
 Software Developer | Python | Java
 </h3>
 
@@ -52,7 +52,7 @@ I'm Faujiya, a B.Tech Information Technology student passionate about software d
 <h2>🛠 Tools & Platforms</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" /><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
 Git • GitHub • VS Code • IntelliJ IDEA • Render
