@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=faujifaujiya04-web&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 <h1 align="center">👋 Hi, I'm Faujiya</h1>
-<h3>
+<h3 align="center">
 Software Developer | Python | Java
 </h3>
 
