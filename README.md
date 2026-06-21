@@ -53,20 +53,14 @@ I'm Faujiya, a B.Tech Information Technology student passionate about software d
 <h2>🛠 Tools & Platforms</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" /> <br>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
-Git • GitHub • VS Code • IntelliJ IDEA
+Git • GitHub • VS Code • IntelliJ IDEA • Render
 
 <br>
-
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-
-Render
-
-<p>
-🔹 IntelliJ IDEA &nbsp;&nbsp; 🔹 Render
-</p>
 
 <h2>🧠 Core Concepts</h2>
 
