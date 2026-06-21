@@ -8,10 +8,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faujifaujiya04-web&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
-<h1>👋 Hi, I'm Faujiya</h1>
-<h3>
-🚀 Software Developer | Java • Python • React • FastAPI | AI & Cybersecurity Enthusiast
+<h1 align="center">👋 Hi, I'm Faujiya</h1>
+
+<h3 align="center">
+Software Engineer • Python • Java
 </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faujifaujiya04-web&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
 <h1>👩‍💻 About Me</h1>
 <p>
 I'm Faujiya, a B.Tech Information Technology student passionate about software development, artificial intelligence, and building real-world applications. I enjoy creating scalable solutions using Java, Python, React, FastAPI, Flask, and Spring Boot. My interests include full-stack development, cybersecurity, and AI-driven systems. Through continuous learning and hands-on projects, I strive to build impactful software while growing as a future software engineer.
@@ -21,25 +26,61 @@ I'm Faujiya, a B.Tech Information Technology student passionate about software d
 Technologies, frameworks, databases, and tools I use to build modern software applications.
 </p>
 
+<h1>🛠 Tech Stack</h1>
+
 <h2>💻 Languages</h2>
 
-<img height="60" src="https://skillicons.dev/icons?i=java,python,javascript" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+Python • Java
+
+---
 
 <h2>🎨 Frontend Development</h2>
 
-<img height="60" src="https://skillicons.dev/icons?i=html,css,react" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+HTML • CSS • React
+
+---
 
 <h2>⚙️ Backend Development</h2>
 
-<img height="60" src="https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi" />
+<p>
+<img src="https://skillicons.dev/icons?i=spring,flask,fastapi" />
+</p>
+
+Spring Boot • Flask • FastAPI
+
+---
 
 <h2>🗄️ Databases</h2>
 
-<img height="60" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+MySQL • SQLite
+
+---
 
 <h2>🛠 Tools & Platforms</h2>
 
-<img height="60" src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+Git • GitHub • VS Code • IntelliJ IDEA • Render
+
+---
+
+<h2>🧠 Core Concepts</h2>
+
+OOP • REST APIs • CRUD Operations
 
 <h1>📈 Contribution Graph</h1>
 <p align="center">
