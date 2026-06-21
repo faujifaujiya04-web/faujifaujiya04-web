@@ -11,7 +11,7 @@
 <h1 align="center">👋 Hi, I'm Faujiya</h1>
 
 <h3 align="center">
-Software Engineer • Python • Java
+Software Developer | Python | Java
 </h3>
 
 <h1>👩‍💻 About Me</h1>
@@ -53,10 +53,16 @@ I'm Faujiya, a B.Tech Information Technology student passionate about software d
 <h2>🛠 Tools & Platforms</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git" height="50"/> Git &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="50"/> GitHub &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/> VS Code
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
+
+Git • GitHub • VS Code • IntelliJ IDEA
+
+<br>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+
+Render
 
 <p>
 🔹 IntelliJ IDEA &nbsp;&nbsp; 🔹 Render
@@ -64,11 +70,11 @@ I'm Faujiya, a B.Tech Information Technology student passionate about software d
 
 <h2>🧠 Core Concepts</h2>
 
-<p>
-🔹 OOP &nbsp;&nbsp;
-🔹 REST APIs &nbsp;&nbsp;
+🔹 Object-Oriented Programming (OOP)
+
+🔹 REST APIs
+
 🔹 CRUD Operations
-</p>
 <h1>📈 Contribution Graph</h1>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=faujifaujiya04-web&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
