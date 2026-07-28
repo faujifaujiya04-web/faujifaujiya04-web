@@ -84,7 +84,16 @@ Git • GitHub • VS Code • IntelliJ IDEA • Render
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight" />
 </p>
+<h1 align="center">📊 GitHub Statistics</h1>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faujifaujiya04-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faujifaujiya04-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight&hide_border=true"/>
+</p>
 <h1>🚀 Featured Projects</h1>
 <table>
 <tr>
