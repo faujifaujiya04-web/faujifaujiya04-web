@@ -84,6 +84,7 @@ Git • GitHub • VS Code • IntelliJ IDEA • Render
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight" />
 </p>
+
 <h1>🚀 Featured Projects</h1>
 <table>
 <tr>
