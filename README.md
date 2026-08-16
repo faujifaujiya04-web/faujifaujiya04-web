@@ -89,10 +89,11 @@ Git • GitHub • VS Code • IntelliJ IDEA • Render
 <tr>
 <td>
 
-###🤖 NexusReach AI
+### 🤖 NexusReach AI
+
 An enterprise AI customer communication platform that unifies multi-channel conversations with Gemini-powered AI agents, RAG, human approval, and real-time AI monitoring.
 
-</td>
+Make the final README clean, professional, recruiter-friendly, and consistent with the existing design.
 </tr>
 
 <tr>
