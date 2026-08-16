@@ -88,6 +88,15 @@ Git • GitHub • VS Code • IntelliJ IDEA • Render
 <table>
 <tr>
 <td>
+
+###🤖 NexusReach AI
+An enterprise AI customer communication platform that unifies multi-channel conversations with Gemini-powered AI agents, RAG, human approval, and real-time AI monitoring.
+
+</td>
+</tr>
+
+<tr>
+<td>
   
 ### 💳 Offline Token Payment System
 An offline-first payment platform supporting wallet transfers, QR-based payments, JWT authentication, fraud detection, and merchant transactions using FastAPI, React, and PostgreSQL.
