@@ -71,20 +71,19 @@ Git • GitHub • VS Code • IntelliJ IDEA • Render
 
 ![Snake animation](https://github.com/faujifaujiya04-web/faujifaujiya04-web/blob/output/github-contribution-grid-snake.svg)
 
-<h1 align="center">📊 GitHub Statistics</h1>
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=faujifaujiya04-web&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faujifaujiya04-web&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faujifaujiya04-web&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faujifaujiya04-web&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=faujifaujiya04-web&theme=tokyonight" />
 </p>
-
 <h1>🚀 Featured Projects</h1>
 <table>
 <tr>
