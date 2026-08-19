@@ -89,9 +89,9 @@ Git • GitHub • VS Code • IntelliJ IDEA • Render
 <tr>
 <td>
 
-### ONLINE HACKATHON
+### 👩‍💻 ONLINE HACKATHON
 
-### NexusReach AI — Caspian Buildathon 2026
+### 🌐 NexusReach AI — Caspian Buildathon 2026
 Built an enterprise AI customer communication platform using Gemini, RAG, Multi-Agent AI, React, and FastAPI, with human approval and AI observability.
 </tr>
 
@@ -107,8 +107,9 @@ An offline-first payment platform supporting wallet transfers, QR-based payments
 <tr>
 <td>
 
-### 🤖 AI Smart Attendance System
-A face-detection-powered attendance management system that automatically records student attendance and helps prevent proxy attendance using real-time verification.
+### 🤖 SkillForge AI – AI Career Intelligence & Placement Preparation Platform
+• Engineered an AI-powered career intelligence platform that analyzes student profiles, skills, academic performance, and target roles to provide personalized career guidance and placement preparation.
+• Developed interactive DSA, Aptitude, Reasoning, AI Mentor, and role-specific Mock Interview modules with real-time progress tracking, scoring, personalized feedback, and AI-powered learning assistance.
 
 </td>
 </tr>
