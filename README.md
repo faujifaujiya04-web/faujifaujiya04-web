@@ -98,7 +98,7 @@ Built an enterprise AI customer communication platform using Gemini, RAG, Multi-
 <tr>
 <td>
 
-🎥 CinePilot AI — Agentic Cinema Hackathon 2026 (Google Cloud)
+### 🎥 CinePilot AI — Agentic Cinema Hackathon 2026 (Google Cloud)
 Built an autonomous film production intelligence platform using Gemini, 7-agent AI orchestration, ClickHouse, React, and FastAPI, with production risk analysis, audience forecasting, evidence-based decisions, and an interactive Greenlight Simulator
 </tr>
 
