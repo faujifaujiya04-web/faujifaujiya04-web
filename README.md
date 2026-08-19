@@ -109,6 +109,7 @@ An offline-first payment platform supporting wallet transfers, QR-based payments
 
 ### 🤖 SkillForge AI – AI Career Intelligence & Placement Preparation Platform
 • Engineered an AI-powered career intelligence platform that analyzes student profiles, skills, academic performance, and target roles to provide personalized career guidance and placement preparation.
+
 • Developed interactive DSA, Aptitude, Reasoning, AI Mentor, and role-specific Mock Interview modules with real-time progress tracking, scoring, personalized feedback, and AI-powered learning assistance.
 
 </td>
