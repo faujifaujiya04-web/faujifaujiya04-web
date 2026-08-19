@@ -127,9 +127,8 @@ An AI-enabled cybersecurity reporting portal with threat analysis, incident trac
 <tr>
 <td>
 
-### 🔍 Instagram Fake Profile Detection
-A profile analysis system that identifies suspicious Instagram accounts using engagement metrics and behavioral patterns.
-
+### ☁️ CloudSentinel AI
+An AI-powered cloud observability and incident response platform supporting telemetry analysis, multi-agent root-cause diagnosis, RAG-based runbooks, risk assessment, and human-approved remediation using FastAPI, React, TypeScript, and AI agents.
 </td>
 </tr>
 </table>
