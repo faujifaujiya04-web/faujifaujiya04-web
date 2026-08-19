@@ -92,7 +92,7 @@ Git • GitHub • VS Code • IntelliJ IDEA • Docker • Render
 <tr>
 <td>
 
-### 👩‍💻 ONLINE HACKATHON
+### 👩‍💻 ONLINE HACKATHONS
 
 ### 🌐 NexusReach AI — Caspian Buildathon 2026
 Built an enterprise AI customer communication platform using Gemini, RAG, Multi-Agent AI, React, and FastAPI, with human approval and AI observability.
@@ -101,7 +101,7 @@ Built an enterprise AI customer communication platform using Gemini, RAG, Multi-
 <tr>
 <td>
 
-### 🎥 CinePilot AI — Agentic Cinema Hackathon 2026 (Google Cloud Hackathon)
+### 🎥 CinePilot AI — Agentic Cinema Hackathon 2026 (Google Cloud Online Hackathon)
 Built an autonomous film production intelligence platform using Gemini, 7-agent AI orchestration, ClickHouse, React, and FastAPI, with production risk analysis, audience forecasting, evidence-based decisions, and an interactive Greenlight Simulator.
 </tr>
 
