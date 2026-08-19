@@ -31,7 +31,7 @@ I'm Faujiya, a B.Tech Information Technology student passionate about software d
 <p>
 <img src="https://skillicons.dev/icons?i=html" height="50"/> HTML &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=css" height="50"/> CSS &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" height="50"/> React
+<img src="https://skillicons.dev/icons?i=react" height="50"/> React Js
 </p>
 
 <h2>⚙️ Backend Development</h2>
@@ -52,10 +52,11 @@ I'm Faujiya, a B.Tech Information Technology student passionate about software d
 <h2>🛠 Tools & Platforms</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
-Git • GitHub • VS Code • IntelliJ IDEA • Render
+Git • GitHub • VS Code • IntelliJ IDEA • Docker • Render
 
 <h2>🧠 Core Concepts</h2>
 
@@ -116,6 +117,7 @@ An offline-first payment platform supporting wallet transfers, QR-based payments
 
 ### 🤖 SkillForge AI – AI Career Intelligence & Placement Preparation Platform
  Engineered an AI-powered career intelligence platform that analyzes student profiles, skills, academic performance, and target roles to provide personalized career guidance and placement preparation.
+ 
  Developed interactive DSA, Aptitude, Reasoning, AI Mentor, and role-specific Mock Interview modules with real-time progress tracking, scoring, personalized feedback, and AI-powered learning assistance.
 
 </td>
@@ -126,6 +128,7 @@ An offline-first payment platform supporting wallet transfers, QR-based payments
 
 ### 🛡️ CyberGuard
 Integrated AI-powered URL and email threat analysis using NLP APIs for instant safety classification; structured on a modular Flask Blueprints architecture for scalability and maintainability.
+
 An AI-enabled cybersecurity reporting portal with threat analysis, incident tracking, and intelligent URL/email safety classification.
 
 
