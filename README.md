@@ -107,6 +107,8 @@ Built an autonomous film production intelligence platform using Gemini, 7-agent 
 
 <tr>
 <td>
+
+### 👩‍💻PROJECTS
   
 ### 💳 Offline Token Payment System
 An offline-first payment platform supporting wallet transfers, QR-based payments, JWT authentication, fraud detection, and merchant transactions using FastAPI, React, and PostgreSQL.
