@@ -89,11 +89,10 @@ Git • GitHub • VS Code • IntelliJ IDEA • Render
 <tr>
 <td>
 
-### 🤖 NexusReach AI
+### ONLINE HACKATHON
 
-An enterprise AI customer communication platform that unifies multi-channel conversations with Gemini-powered AI agents, RAG, human approval, and real-time AI monitoring.
-
-Make the final README clean, professional, recruiter-friendly, and consistent with the existing design.
+### NexusReach AI — Caspian Buildathon 2026
+Built an enterprise AI customer communication platform using Gemini, RAG, Multi-Agent AI, React, and FastAPI, with human approval and AI observability.
 </tr>
 
 <tr>
