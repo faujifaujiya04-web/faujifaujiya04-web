@@ -99,7 +99,7 @@ Built an enterprise AI customer communication platform using Gemini, RAG, Multi-
 <td>
 
 ### 🎥 CinePilot AI — Agentic Cinema Hackathon 2026 (Google Cloud)
-Built an autonomous film production intelligence platform using Gemini, 7-agent AI orchestration, ClickHouse, React, and FastAPI, with production risk analysis, audience forecasting, evidence-based decisions, and an interactive Greenlight Simulator
+Built an autonomous film production intelligence platform using Gemini, 7-agent AI orchestration, ClickHouse, React, and FastAPI, with production risk analysis, audience forecasting, evidence-based decisions, and an interactive Greenlight Simulator.
 </tr>
 
 <tr>
@@ -115,9 +115,9 @@ An offline-first payment platform supporting wallet transfers, QR-based payments
 <td>
 
 ### 🤖 SkillForge AI – AI Career Intelligence & Placement Preparation Platform
-• Engineered an AI-powered career intelligence platform that analyzes student profiles, skills, academic performance, and target roles to provide personalized career guidance and placement preparation.
+ Engineered an AI-powered career intelligence platform that analyzes student profiles, skills, academic performance, and target roles to provide personalized career guidance and placement preparation.
 
-• Developed interactive DSA, Aptitude, Reasoning, AI Mentor, and role-specific Mock Interview modules with real-time progress tracking, scoring, personalized feedback, and AI-powered learning assistance.
+ Developed interactive DSA, Aptitude, Reasoning, AI Mentor, and role-specific Mock Interview modules with real-time progress tracking, scoring, personalized feedback, and AI-powered learning assistance.
 
 </td>
 </tr>
