@@ -40,6 +40,7 @@ I'm Faujiya, a B.Tech Information Technology student passionate about software d
 <img src="https://skillicons.dev/icons?i=spring" height="50"/> Spring Boot &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=flask" height="50"/> Flask &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=fastapi" height="50"/> FastAPI
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/> Node.js
 </p>
 
 <h2>🗄️ Databases</h2>
@@ -47,6 +48,7 @@ I'm Faujiya, a B.Tech Information Technology student passionate about software d
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" height="50"/> MySQL &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=sqlite" height="50"/> SQLite
+<img src="https://skillicons.dev/icons?i=postgresql" height="50"/> PostgreSQL &nbsp;&nbsp;
 </p>
 
 <h2>🛠 Tools & Platforms</h2>
